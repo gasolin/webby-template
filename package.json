@@ -1,8 +1,8 @@
 {
   "name": "webby_template",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Fred Lin <gasolin@gmail.com>",
-  "description": "A simple helpful robot for me",
+  "description": "A simple helpful robot template",
   "dependencies": {
     "hubot-calculator": "^0.4.0",
     "hubot-diagnostics": "0.0.1",
@@ -11,7 +11,7 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-suggest": "0.0.1",
     "hubot-wikipedia": "0.0.2",
-    "webbybot": "^0.2.0"
+    "webbybot": "^0.3.0"
   },
   "engines": {
     "node": "0.10.x"
