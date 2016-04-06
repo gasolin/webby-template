@@ -11,6 +11,7 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-suggest": "0.0.1",
     "hubot-wikipedia": "0.0.2",
+    "webby-plugin": "^1.0.2",
     "webbybot": "^0.3.0"
   },
   "engines": {
