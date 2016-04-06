@@ -1,4 +1,4 @@
-# Webby demo template
+# Webby bot template
 
 Clone the code, run webby demo bot with commands
 
@@ -15,7 +15,7 @@ Enable a skill in `external-scripts.json`.
 
 You can add the environment variables in `.env` file or defined in system PATH.
 
-## Tested adapter
+## Workable adapters
 
 We've successfully run webbybot with Telegram, Facebook messenger, Skype adapters. You are able to try with other adapters via [instruction](https://github.com/gasolin/webbybot#how-to-replace-hubot-to-webbybot).
 
