@@ -33,6 +33,11 @@ Add related parameters in `.env`:
 TELEGRAM_TOKEN=
 ```
 
+Run bot with telegram adapter
+```
+./bin/webby -a telegram
+```
+
 ### Facebook Messenger
 Support via [hubot-messenger](https://github.com/kimberli/hubot-messenger)
 
@@ -48,6 +53,11 @@ export HUBOT_FB_USERNAME=
 export HUBOT_FB_PASSWORD=
 ```
 
+Run bot with messenger adapter
+```
+./bin/webby -a messenger
+```
+
 ### Skype
 Support via [hubot-skyweb](https://github.com/EllisV/hubot-skyweb)
 
@@ -61,4 +71,9 @@ Add related parameters in `.env`:
 ```
 HUBOT_SKYPE_USERNAME=
 HUBOT_SKYPE_PASSWORD=
+```
+
+Run bot with skype adapter
+```
+./bin/webby -a skyweb
 ```
