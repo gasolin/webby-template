@@ -1,9 +1,11 @@
 [
   "hubot-calculator",
   "hubot-diagnostics",
+  "hubot-help",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-suggest",
   "hubot-wikipedia",
-  "webby-plugin"
+  "webby-plugin",
+  "hubot-rss-reader"
 ]
