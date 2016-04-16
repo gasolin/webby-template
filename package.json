@@ -15,6 +15,9 @@
     "webby-plugin": "^1.0.2",
     "webbybot": "^3.0.0"
   },
+  "scripts": {
+    "start": "bin/webby"
+  }
   "engines": {
     "node": "0.12.x"
   }
