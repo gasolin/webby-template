@@ -1,5 +1,6 @@
 node_modules
 .DS_Store*
 .webby_history
+.hubot_history
 .env
 

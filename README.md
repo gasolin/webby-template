@@ -2,7 +2,7 @@
 
 [Webbybot](https://github.com/gasolin/webbybot/) is the next generation message/chat bot framework written in ES6 and plain javascript. Fully compatible with [Hubot](https://github.com/github/hubot)'s middleware and plugins.
 
-Clone the code, run webby demo bot with commands
+Clone the code, set webby bot with commands
 
 ```shell
 $ git clone https://github.com/gasolin/webby-template.git demo
@@ -10,6 +10,8 @@ $ cd demo
 $ npm install
 $ ./bin/webby
 ```
+
+You can run your bot with new webbybot core `./bin/webby` or test plugins with hubot core `./bin/hubot`.
 
 You can find and install extra skills from [npm](https://www.npmjs.com/search?q=hubot)
 
