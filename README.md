@@ -35,6 +35,7 @@ Edit `src/telegram.coffee` and replace `hubot` to `webbybot`.
 Add related parameters in `.env`:
 ```
 TELEGRAM_TOKEN=
+WEBBY_CURRENT_ADAPTER="telegram"
 ```
 
 Run bot with telegram adapter
@@ -53,8 +54,9 @@ Edit `src/messenger.coffee` and replace `hubot` to `webbybot`.
 
 Add related parameters in `.env`:
 ```
-export HUBOT_FB_USERNAME=
-export HUBOT_FB_PASSWORD=
+HUBOT_FB_USERNAME=
+HUBOT_FB_PASSWORD=
+WEBBY_CURRENT_ADAPTER="messenger"
 ```
 
 Run bot with messenger adapter
@@ -75,6 +77,7 @@ Add related parameters in `.env`:
 ```
 HUBOT_SKYPE_USERNAME=
 HUBOT_SKYPE_PASSWORD=
+WEBBY_CURRENT_ADAPTER="skyweb"
 ```
 
 Run bot with skype adapter

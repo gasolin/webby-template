@@ -1,6 +1,6 @@
 {
   "name": "webby-template",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Fred Lin <gasolin@gmail.com>",
   "description": "A simple helpful robot template",
   "dependencies": {
@@ -11,9 +11,10 @@
     "hubot-maps": "0.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-suggest": "0.0.1",
+    "hubot-telegram": "^0.1.0",
     "hubot-wikipedia": "0.0.2",
     "webby-plugin": "^1.0.2",
-    "webbybot": "^3.0.0"
+    "webbybot": "^3.2.1"
   },
   "scripts": {
     "start": "bin/webby"

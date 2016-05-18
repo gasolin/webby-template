@@ -6,6 +6,5 @@
   "hubot-redis-brain",
   "hubot-suggest",
   "hubot-wikipedia",
-  "webby-plugin",
-  "hubot-rss-reader"
+  "webby-plugin"
 ]
